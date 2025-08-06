@@ -47,6 +47,3 @@ Organization complete! 42 file(s) moved.
 ## License
 
 MIT License
-
-Хочешь, чтобы я сделал?
-```
